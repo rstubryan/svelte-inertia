@@ -1,7 +1,1 @@
-<h1 class="">Hello World</h1>
-
-<style>
-    h1 {
-        color: red;
-    }
-</style>
+<h1 class="text-primary">Hello World</h1>
